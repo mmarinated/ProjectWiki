@@ -1,7 +1,7 @@
 # TimeSeriesProject_Wikipedia
 
 Data: https://www.kaggle.com/c/web-traffic-time-series-forecasting    
-Results: can be found in Report.
+Results: can be found in [Report](Report_ZavalinaM.pdf).
 
 To view ipynb: https://nbviewer.jupyter.org/
 
